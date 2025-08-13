@@ -81,7 +81,7 @@ Default values are provided, but you can adjust them based on your specific requ
 
 ## Examples
 
-Check the `examples` folder for complete usage examples.
+Check the `Example.ino` file for complete usage examples.
 
 ## License
 
